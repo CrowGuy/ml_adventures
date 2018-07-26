@@ -1,0 +1,4 @@
+A is an apple
+B is a bird
+C is a car
+D is a dog

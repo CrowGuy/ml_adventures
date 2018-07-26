@@ -1,0 +1,2 @@
+images/owl.jpg,owl
+images/angry_bird.jpg,angry
